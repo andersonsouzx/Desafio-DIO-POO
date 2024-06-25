@@ -8,7 +8,7 @@ Repositório para armazenar o desafio da DIO sobre POO em Java
 
 ## POO - Desafio
 
-### Modelagem e Diagramação de um Componente iPhone
+### Modelagem e Diagramação de um Componente iPhon
 
 Modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
